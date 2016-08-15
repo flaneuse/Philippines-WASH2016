@@ -1,0 +1,20 @@
+"","x"
+"PIPED WATER",10
+"Piped into dwelling",11
+"Piped to yard/plot",12
+"Public tap/standpipe",13
+"TUBE WELL WATER",20
+"Tube well or borehole",21
+"DUG WELL (OPEN/PROTECTED)",30
+"Protected well",31
+"Semi-protected well",32
+"Unprotected well",33
+"SURFACE WATER",40
+"Protected spring",41
+"Unprotected spring",42
+"River/dam/lake/ponds/stream/canal/irrigation channel",43
+"Rainwater",51
+"Tanker truck",61
+"Cart with small tank",62
+"Bottled water",71
+"Other",96

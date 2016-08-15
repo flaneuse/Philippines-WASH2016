@@ -1,0 +1,18 @@
+"","x"
+"FLUSH TOILET",10
+"Flush to piped sewer system",11
+"Flush to septic tank",12
+"Flush to pit latrine",13
+"Flush to somewhere else",14
+"Flush, don't know where",15
+"PIT TOILET LATRINE",20
+"Ventilated Improved Pit latrine (VIP)",21
+"Pit latrine with slab",22
+"Pit latrine without slab/open pit",23
+"NO FACILITY",30
+"No facility/bush/field",31
+"Composting toilet",41
+"Bucket toilet",42
+"Hanging toilet/latrine",43
+"Public toilet",51
+"Other",96
